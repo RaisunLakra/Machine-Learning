@@ -1,0 +1,28 @@
+env
+package-lock.json
+frontend
+datasets/
+processed_data/
+*-datasets*-datasets
+.env
+
+# Temporary files
+*.tmp
+*.swp
+*.log
+
+# Python environment
+*.pyc
+__pyinforcementbackup!/ideas/randomidea]
+
+# Ignore dataset directory
+breast-cancer-dataset/
+breast-cancer-dataset/**
+
+# Alternatively, more generic rules
+*-datasets/
+*-datasets/**
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
